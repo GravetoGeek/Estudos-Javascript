@@ -1,0 +1,12 @@
+[submodule "mobile-app-react-native-qrcode"]
+	path = mobile-app-react-native-qrcode
+	url = https://github.com/GravetoGeek/mobile-app-react-native-qrcode.git
+[submodule "smarteconomy"]
+	path = smarteconomy
+	url = https://github.com/GravetoGeek/smarteconomy.git
+[submodule "gloria"]
+	path = gloria
+	url = https://github.com/GravetoGeek/gloria.git
+[submodule "smarkio"]
+	path = smarkio
+	url = https://github.com/GravetoGeek/smarkio.git
