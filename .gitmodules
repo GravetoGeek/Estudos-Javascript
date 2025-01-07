@@ -10,3 +10,6 @@
 [submodule "smarkio"]
 	path = smarkio
 	url = https://github.com/GravetoGeek/smarkio.git
+[submodule "unfollowNonFollowers"]
+	path = unfollowNonFollowers
+	url = https://github.com/GravetoGeek/unfollowNonFollowers.git
