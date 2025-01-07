@@ -13,3 +13,6 @@
 [submodule "unfollowNonFollowers"]
 	path = unfollowNonFollowers
 	url = https://github.com/GravetoGeek/unfollowNonFollowers.git
+[submodule "serverless-template"]
+	path = serverless-template
+	url = https://github.com/GravetoGeek/serverless-template.git
