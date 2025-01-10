@@ -16,3 +16,6 @@
 [submodule "serverless-template"]
 	path = serverless-template
 	url = https://github.com/GravetoGeek/serverless-template.git
+[submodule "Neo-Terminal-AI"]
+	path = Neo-Terminal-AI
+	url = https://github.com/GravetoGeek/Neo-Terminal-AI.git
